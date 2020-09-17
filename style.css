@@ -1,0 +1,91 @@
+/* CSS files add styling rules to your content */
+
+@import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
+
+body {
+  background-color: #ffd5c2;
+}
+
+.header {
+  font-family: "Anton", sans-serif;
+  font-size: 50px;
+  text-align: center;
+}
+
+#rome {
+  color: #c8553d;
+}
+#comma {
+  color:#c89f9c;
+}
+#italy {
+  color: #f28f3b;
+}
+.colosseum {
+  font-family: "Anton", sans-serif;
+  font-size: 30px;
+  color: #588b8b;
+}
+.pantheon {
+  font-family: "Anton", sans-serif;
+  font-size: 20px;
+  color: #588b8b;
+}
+.VaticanMuseum {
+  font-family: "Anton", sans-serif;
+  font-size: 20px;
+  color: #588b8b;
+}
+.trevifountain {
+  font-family: "Anton", sans-serif;
+  font-size: 20px;
+  color: #588b8b;
+}
+.RomanForum {
+  font-family: "Anton", sans-serif;
+  font-size: 20px;
+  color: #588b8b;
+}
+
+.Pn {
+  font-family: "Anton", sans-serif;
+  font-size: 20px;
+  color: #588b8b;
+}
+
+.image1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+.image2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+.image3 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+.image4 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+.image5 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+.image6 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
