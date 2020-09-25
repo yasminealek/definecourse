@@ -1,91 +1,59 @@
 /* CSS files add styling rules to your content */
-
-@import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Changa:wght@500&family=Quicksand:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@500&display=swap");
+/* how to make the options to the left also. in the chafdacter page there is a second b???*/
 
 body {
-  background-color: #ffd5c2;
+  font-family: "Noto Serif JP", serif;
 }
-
-.header {
-  font-family: "Anton", sans-serif;
-  font-size: 50px;
+h1 {
+  font-family: "Quicksand", sans-serif;
+  color: #ffffff;
+}
+.n {
+  background-color: #f7df39;
+  display: flex;
+  float: left;
+  position: fixed;
+  top: 0;
+  width: 100.8%;
+  color: white;
+  padding: 14px;
+  margin-top: -15px;
+  height: 50px;
+  align-items: baseline;
+}
+.series {
+  margin-left: 40px;
+  font-size: 20px;
+  margin-top: 80px;
   text-align: center;
+  
 }
-
-#rome {
-  color: #c8553d;
+.title1{
+  font-size: 50px;
+  font-family: 'Changa', sans-serif;
+  color:#00296b
+  
 }
-#comma {
-  color:#c89f9c;
+.bar {
+  color: white;
+  padding: 10px;
+  text-allign: left;
 }
-#italy {
-  color: #f28f3b;
+.GI{
+  margin-left: 50px;
+  margin-right: 25px;
+  margin-top:-10px;
+  font-size:20px;
 }
-.colosseum {
-  font-family: "Anton", sans-serif;
-  font-size: 30px;
-  color: #588b8b;
+h3{
+  text-align:center;
+  font-size: 35px;
+  font-family: sans-serif;
+  color:#2e1f27
 }
-.pantheon {
-  font-family: "Anton", sans-serif;
-  font-size: 20px;
-  color: #588b8b;
-}
-.VaticanMuseum {
-  font-family: "Anton", sans-serif;
-  font-size: 20px;
-  color: #588b8b;
-}
-.trevifountain {
-  font-family: "Anton", sans-serif;
-  font-size: 20px;
-  color: #588b8b;
-}
-.RomanForum {
-  font-family: "Anton", sans-serif;
-  font-size: 20px;
-  color: #588b8b;
-}
-
-.Pn {
-  font-family: "Anton", sans-serif;
-  font-size: 20px;
-  color: #588b8b;
-}
-
-.image1 {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 30%;
-}
-.image2 {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 30%;
-}
-.image3 {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 30%;
-}
-.image4 {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 30%;
-}
-.image5 {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 30%;
-}
-.image6 {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 30%;
+body{
+  background-color:#f0daa0;
 }
